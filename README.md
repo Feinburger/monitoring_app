@@ -20,6 +20,6 @@ Python web app hosted on K8s that tracks hardware resource utilizations
 
 ### Notes
 
-* Image is built with Dockerfile
-* Repository is created using ecr.py
-* Definition and deployment of service and deployment is done with eks.py
+* Build the image with Dockerfile
+* Create the repository with ecr.py
+* Define and deploy the service and deployment with eks.py
